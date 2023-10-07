@@ -5,9 +5,6 @@ Enrollment no.: 12020002016035
 
 # Hyperledger Fabric + Aircraft MRO
 
-
-[Hyperledger Fabric + Aircraft MRO Pitch Presentation](https://docs.google.com/presentation/d/1wEVzxKrAMhcqZpjzRCup2dHBgFmt6gY-MDXYOtnlCzk/edit?usp=sharing)
-
 ## Description
 
 The aerospace industry has a vast and complex supply chain involving hundreds to thousands of companies and millions of parts. The entire supply chain must meet specific regulations and procedures specified by governing bodies from governments and other organizations. The many facets of the supply chain can be seen in the various phases of aircraft development and deployment - parts procurement, aircraft assembly, certification, delivery, maintenance, and end-of-life.
