@@ -29,9 +29,6 @@ Internet of things (IoT) devices allow for flight records to be automatically ge
 
 However, IoT devices often provide massive amounts of information and analyzing the information for dangerous patterns is difficult. In addition to blockchain and IoT technology, the proposed solution would include a machine learning algorithm for predictive maintenance. By accessing the maintenance records and IoT data across multiple aircraft, the algorithm would be able to alert maintainers of possible issues or note-worthy trends in aircraft condition.
 
-### Timeline/Implementation
-
-![](./documentation/timeline.png)
 
 ## Technical Details (PoC)
 
