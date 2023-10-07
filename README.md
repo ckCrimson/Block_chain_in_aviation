@@ -1,7 +1,10 @@
+Name: Aditya Kumra
+Stream: CSE(AIML)
+Enrollment no.: 12020002016035
+**BLOCKCHAIN IN AVIATION**
+
 # Hyperledger Fabric + Aircraft MRO
 
-**A Distributed Applications II Project**  
-Aaron Lu - 101278524
 
 [Hyperledger Fabric + Aircraft MRO Pitch Presentation](https://docs.google.com/presentation/d/1wEVzxKrAMhcqZpjzRCup2dHBgFmt6gY-MDXYOtnlCzk/edit?usp=sharing)
 
